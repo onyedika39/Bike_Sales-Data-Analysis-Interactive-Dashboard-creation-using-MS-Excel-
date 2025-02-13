@@ -14,7 +14,6 @@ The bike store wants to create a sales report. So that, the owner of the bike st
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-## Dashbord
 ## Project Insight
 - middle age  customers are more likely to buy products compared to young people.
 - The middle age group buys most of the products.
