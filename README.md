@@ -1,21 +1,59 @@
-# Bike_Sales-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-
-## Project Objective
-The bike store wants to create a sales report. So that, the owner of the bike store can understand their customers and grow more sales.
-## Questions
-- Count the number of purchased bike?
+#🚴‍♂ Bike Sales Analysis in Excel
 
-- average income per purchase of bike of gender
+## 📌 Project Overview
 
-- Who purchased more - Men or Women?
+- This project analyzes bike sales data using Microsoft Excel, focusing on identifying trends, customer demographics, and sales performance. The analysis is presented through Pivot Tables, Pivot Charts, Slicers, and a professional dashboard for better insights.
 
-- What are different order status?
-## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-## Project Insight
-- middle age  customers are more likely to buy products compared to young people.
-- The middle age group buys most of the products.
-Final Conclusion:
-To improve the sales of bike store, a strategic marketing plan focused on younger people and should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+## 📊 Features & Analysis
+
+- Data Cleaning & Formatting
+
+Removed duplicates, handled missing values, and ensured data consistency.
+
+
+- Pivot Tables & Charts
+
+Analyzed sales by customer age, gender, income level, and region.
+
+Identified best-selling products and customer preferences.
+
+
+- Slicers for Interactive Filtering
+
+Allowed users to filter sales data dynamically by region, product type, and more.
+
+
+- Professional Dashboard
+
+Designed a visually appealing, user-friendly summary of sales insights.
+
+
+
+## 🛠 Tools Used
+
+Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
+
+
+## 📈 Key Insights
+
+
+Most sales come from customers aged 25-40.
+
+Premium bikes are preferred by higher-income customers.
+
+Sales are higher during certain months, indicating seasonal demand.
+
+
+
+## 🚀 How to Use This Project
+
+1. Download the Excel file from this repository.
+
+
+2. Navigate through Pivot Tables & Charts to explore trends.
+
+
+3. Use Slicers to filter data.
+
+
+4. View the Dashboard for a summarized analysis.
