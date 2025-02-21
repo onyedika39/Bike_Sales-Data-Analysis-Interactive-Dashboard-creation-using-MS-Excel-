@@ -8,7 +8,7 @@
 
 - Data Cleaning & Formatting
 
- Removed duplicates, handled missing values, and ensured data consistency.
+   Removed duplicates, handled missing values, and ensured data consistency.
 
 
 - Pivot Tables & Charts
